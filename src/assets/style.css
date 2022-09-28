@@ -1,0 +1,9 @@
+.container .row .item {
+  border-radius: 10px;
+  border: 1px solid #cecece;
+}
+.container .row .item .card {
+  padding: 20px;
+  background-color: #e5e5e5;
+  border: none;
+}
